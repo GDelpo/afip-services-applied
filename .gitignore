@@ -1,0 +1,10 @@
+__pycache__/
+env/
+.env
+*.json
+*.xlsx
+*.xls
+*.bat
+*.yaml
+.ruff_cache/
+*.log
